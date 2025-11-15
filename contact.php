@@ -75,7 +75,8 @@
         <!-- map start here -->
 
             <div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52887.34433080368!2d-118.1233672108971!3d34.05774562734894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2d071ead0ae9f%3A0xec7b5ef82544d465!2sRosemead%2C%20CA%2091770%2C%20USA!5e0!3m2!1sen!2sin!4v1721801331928!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="<!-- Google Maps script removed due to invalid template key -->
+" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
 
 
